@@ -16,13 +16,13 @@ Nick-Aurel
 
 **Claim comment**
 
-Permalink: post the comment below on https://github.com/codepath/pathreview-ai301-fa26-s1/issues/64, then replace this line with the comment permalink (the link that ends in `#issuecomment-…`).
+https://github.com/codepath/pathreview-ai301-fa26-s1/issues/64#issuecomment-6734056162
 
 I'd like to work on the partial-overlap fixture in `test_query_with_partial_overlap`. Next I will set up the repo from SETUP.md, run `pytest tests/unit/test_relevance_scorer.py`, and post whether the query "Python Django web framework" really overlaps the chunk completely so the score is 1.0 against `assert 0.3 < score < 0.9`. If I cannot reproduce it, I will say so and include the environment and output.
 
 **Reproduction comment**
 
-Permalink: post the comment below on the same issue after the claim, then replace this line with that comment permalink.
+https://github.com/codepath/pathreview-ai301-fa26-s1/issues/64#issuecomment-6734123798
 
 Reproduction — #64 partial-overlap fixture
 
